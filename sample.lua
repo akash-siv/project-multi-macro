@@ -134,7 +134,9 @@ lmc_set_handler('Ableton', function(button,direction)
 
 --put your assingnments here
     if (button == 97) then
-    lmc_send_keys('+a', 50)
+    -- it presses shift key and wait for 50ms and then presses the "a" key and wait for 50ms and press "k" key and soon
+    -- {NUM4 6} this presses the "NUM4 6 times."
+    lmc_send_keys('+akash', 50)
 
     elseif (button == 98) then
     lmc_send_keys('+^t', 50)
