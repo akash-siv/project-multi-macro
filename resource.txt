@@ -1,2 +1,8 @@
 https://www.youtube.com/watch?v=Arn8ExQ2Gjg
 # lua macro tutorial youtube.
+
+https://www.youtube.com/watch?v=_cAJ0j3E5xs
+# another tutorial
+
+https://github.com/me2d13/luamacros/wiki/List-of-Keys
+# key bindings
